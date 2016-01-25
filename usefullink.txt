@@ -1,3 +1,6 @@
 유용한 링크 
 **  MIT 6.00 컴퓨터 공학과 프로그래밍(Python) 오픈 코스 http://www.hakawati.co.kr/387
 **  그위니 비. 옷의 넷플릭스. http://estimastory.com/2016/01/21/gwynniebee/ 
+
+
+commit test 
